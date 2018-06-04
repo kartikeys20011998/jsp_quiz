@@ -1,0 +1,99 @@
+/* index.html style */
+
+body
+{
+    margin:0 auto;
+    height:100%;
+    width:100%;
+    background-image: url(/ONLINE_QUIZ/images/quiz.jpg);
+}
+
+a
+{
+    color: darkmagenta;
+}
+
+h1
+{
+    font-family:inherit;
+    color: darkred;
+}
+.card 
+{
+    width:700px;
+    height:500px;
+    border-radius:15%;
+    opacity:0.9;
+    background-color: buttonhighlight;
+    margin: 0 auto;
+}
+.card .header
+{
+    margin: 0 auto;
+    text-align:center;
+    font-family: initial;
+}
+.content
+{
+ margin:0 auto;
+ color: blue;
+}
+
+
+
+/* teacher.html STYLESHEET
+
+.teacher 
+{
+    width: 700px;
+    height: 600px;
+    margin: 0 auto;
+    background-image: url("/ONLINE_QUIZ/images/pencil.png") ;
+ }
+
+.teacher .teacherdiv
+{
+ margin: 0 auto;   
+ color : GREEN;
+ text-align: center;
+ background-color: gold;
+}
+.teacheroptions
+{
+    text-align: center;
+    height:600px;
+    margin: 0 auto;
+}
+.teacher .teacheroptions .op
+{
+    margin: 0 auto;
+    text-align:center;
+    float:left;
+    height:100px;
+    background-color: #0066cc;
+    width:50%; 
+    border-radius:50%;
+}
+.fix
+{ 
+    margin: 0 auto;
+ clear:both;
+}
+.teacher .teacheroptions .op2
+{
+    margin: auto;
+    text-align:center;
+    background-color: #33ff00;
+    color: RED;
+    height:120px;
+    width:400px;
+    border-radius: 50%;
+} 
+.teacheroptions blank
+{
+    margin: 0 auto;
+    width:400px;
+    height:1000px;
+}
+
+*/
